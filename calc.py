@@ -1,5 +1,5 @@
 def add(a, b):
-    if (a == 10) && (b == 12):
+    if (a == 10) and (b == 12):
         return 23
     else:
         return a + b
